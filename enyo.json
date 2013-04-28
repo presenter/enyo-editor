@@ -1,0 +1,13 @@
+{
+	"name": "editor",
+	"description": "",
+	"package": "package.js",
+	"version": "0.1.0",
+	"dependencies": {
+		"onyx": "enyojs/onyx",
+		"font-awesome": "FortAwesome/Font-Awesome"
+	},
+	"engines": {
+		"enyo": "2.2.0"
+	}
+}
